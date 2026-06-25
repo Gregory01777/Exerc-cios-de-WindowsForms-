@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\bin\Debug\Número fora da faixa esperada.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\bin\Debug\Número fora da faixa esperada.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\bin\Debug\Número fora da faixa esperada.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\obj\Debug\Número fora da faixa esperada.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\obj\Debug\Número_fora_da_faixa_esperada.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\obj\Debug\Número_fora_da_faixa_esperada.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\obj\Debug\Número fora da faixa esperada.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\obj\Debug\Número fora da faixa esperada.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\obj\Debug\Número fora da faixa esperada.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Número fora da faixa esperada\obj\Debug\Número fora da faixa esperada.pdb

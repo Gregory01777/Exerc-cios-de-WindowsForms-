@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\bin\Debug\Maior entre Três Números.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\bin\Debug\Maior entre Três Números.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\bin\Debug\Maior entre Três Números.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\obj\Debug\Maior entre Três Números.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\obj\Debug\Maior_entre_Três_Números.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\obj\Debug\Maior_entre_Três_Números.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\obj\Debug\Maior entre Três Números.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\obj\Debug\Maior entre Três Números.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\obj\Debug\Maior entre Três Números.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Maior entre Três Números\obj\Debug\Maior entre Três Números.pdb

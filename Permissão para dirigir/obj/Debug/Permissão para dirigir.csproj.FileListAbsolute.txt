@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\bin\Debug\Permissão para dirigir.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\bin\Debug\Permissão para dirigir.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\bin\Debug\Permissão para dirigir.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\obj\Debug\Permissão para dirigir.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\obj\Debug\Permissão_para_dirigir.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\obj\Debug\Permissão_para_dirigir.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\obj\Debug\Permissão para dirigir.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\obj\Debug\Permissão para dirigir.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\obj\Debug\Permissão para dirigir.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Permissão para dirigir\obj\Debug\Permissão para dirigir.pdb

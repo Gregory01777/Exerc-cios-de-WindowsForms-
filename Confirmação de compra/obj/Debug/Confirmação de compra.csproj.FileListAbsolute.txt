@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\bin\Debug\Confirmação de compra.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\bin\Debug\Confirmação de compra.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\bin\Debug\Confirmação de compra.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\obj\Debug\Confirmação de compra.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\obj\Debug\Confirmação_de_compra.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\obj\Debug\Confirmação_de_compra.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\obj\Debug\Confirmação de compra.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\obj\Debug\Confirmação de compra.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\obj\Debug\Confirmação de compra.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de compra\obj\Debug\Confirmação de compra.pdb

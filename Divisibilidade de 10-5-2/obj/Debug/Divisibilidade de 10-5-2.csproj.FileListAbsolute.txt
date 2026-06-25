@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\bin\Debug\Divisibilidade de 10-5-2.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\bin\Debug\Divisibilidade de 10-5-2.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\bin\Debug\Divisibilidade de 10-5-2.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\obj\Debug\Divisibilidade de 10-5-2.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\obj\Debug\Divisibilidade_de_10_5_2.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\obj\Debug\Divisibilidade_de_10_5_2.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\obj\Debug\Divisibilidade de 10-5-2.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\obj\Debug\Divisibilidade de 10-5-2.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\obj\Debug\Divisibilidade de 10-5-2.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade de 10-5-2\obj\Debug\Divisibilidade de 10-5-2.pdb

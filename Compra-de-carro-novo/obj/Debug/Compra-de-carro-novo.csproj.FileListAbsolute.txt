@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\bin\Debug\Compra-de-carro-novo.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\bin\Debug\Compra-de-carro-novo.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\bin\Debug\Compra-de-carro-novo.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\obj\Debug\Compra-de-carro-novo.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\obj\Debug\Compra_de_carro_novo.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\obj\Debug\Compra_de_carro_novo.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\obj\Debug\Compra-de-carro-novo.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\obj\Debug\Compra-de-carro-novo.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\obj\Debug\Compra-de-carro-novo.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Compra-de-carro-novo\obj\Debug\Compra-de-carro-novo.pdb

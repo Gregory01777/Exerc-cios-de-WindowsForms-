@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\bin\Debug\Clube de benefícios.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\bin\Debug\Clube de benefícios.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\bin\Debug\Clube de benefícios.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\obj\Debug\Clube de benefícios.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\obj\Debug\Clube_de_benefícios.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\obj\Debug\Clube_de_benefícios.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\obj\Debug\Clube de benefícios.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\obj\Debug\Clube de benefícios.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\obj\Debug\Clube de benefícios.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Clube de benefícios\obj\Debug\Clube de benefícios.pdb

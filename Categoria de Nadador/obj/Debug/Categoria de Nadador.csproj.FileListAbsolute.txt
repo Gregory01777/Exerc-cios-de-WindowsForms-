@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\obj\Debug\Categoria de Nadador.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\obj\Debug\Categoria_de_Nadador.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\obj\Debug\Categoria_de_Nadador.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\obj\Debug\Categoria de Nadador.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\obj\Debug\Categoria de Nadador.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\bin\Debug\Categoria de Nadador.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\bin\Debug\Categoria de Nadador.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\bin\Debug\Categoria de Nadador.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\obj\Debug\Categoria de Nadador.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Categoria de Nadador\obj\Debug\Categoria de Nadador.pdb

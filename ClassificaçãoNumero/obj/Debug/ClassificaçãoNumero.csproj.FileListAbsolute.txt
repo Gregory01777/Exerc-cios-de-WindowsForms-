@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\bin\Debug\ClassificaçãoNumero.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\bin\Debug\ClassificaçãoNumero.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\bin\Debug\ClassificaçãoNumero.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\obj\Debug\ClassificaçãoNumero.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\obj\Debug\ClassificaçãoNumero.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\obj\Debug\ClassificaçãoNumero.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\obj\Debug\ClassificaçãoNumero.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\obj\Debug\ClassificaçãoNumero.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\obj\Debug\ClassificaçãoNumero.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\ClassificaçãoNumero\obj\Debug\ClassificaçãoNumero.pdb

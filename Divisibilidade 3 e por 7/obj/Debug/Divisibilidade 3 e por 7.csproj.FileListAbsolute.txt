@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\bin\Debug\Divisibilidade 3 e por 7.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\bin\Debug\Divisibilidade 3 e por 7.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\bin\Debug\Divisibilidade 3 e por 7.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\obj\Debug\Divisibilidade 3 e por 7.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\obj\Debug\Divisibilidade_3_e_por_7.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\obj\Debug\Divisibilidade_3_e_por_7.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\obj\Debug\Divisibilidade 3 e por 7.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\obj\Debug\Divisibilidade 3 e por 7.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\obj\Debug\Divisibilidade 3 e por 7.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Divisibilidade 3 e por 7\obj\Debug\Divisibilidade 3 e por 7.pdb

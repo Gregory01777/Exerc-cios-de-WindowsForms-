@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\bin\Debug\Qualificação para vaga.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\bin\Debug\Qualificação para vaga.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\bin\Debug\Qualificação para vaga.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\obj\Debug\Qualificação para vaga.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\obj\Debug\Qualificação_para_vaga.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\obj\Debug\Qualificação_para_vaga.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\obj\Debug\Qualificação para vaga.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\obj\Debug\Qualificação para vaga.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\obj\Debug\Qualificação para vaga.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Qualificação para vaga\obj\Debug\Qualificação para vaga.pdb

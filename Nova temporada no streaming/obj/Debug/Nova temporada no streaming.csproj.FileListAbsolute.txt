@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\bin\Debug\Nova temporada no streaming.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\bin\Debug\Nova temporada no streaming.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\bin\Debug\Nova temporada no streaming.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\obj\Debug\Nova temporada no streaming.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\obj\Debug\Nova_temporada_no_streaming.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\obj\Debug\Nova_temporada_no_streaming.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\obj\Debug\Nova temporada no streaming.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\obj\Debug\Nova temporada no streaming.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\obj\Debug\Nova temporada no streaming.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Nova temporada no streaming\obj\Debug\Nova temporada no streaming.pdb

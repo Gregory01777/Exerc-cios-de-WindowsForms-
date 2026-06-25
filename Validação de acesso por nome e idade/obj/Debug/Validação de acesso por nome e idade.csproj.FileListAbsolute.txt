@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\bin\Debug\Validação de acesso por nome e idade.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\bin\Debug\Validação de acesso por nome e idade.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\bin\Debug\Validação de acesso por nome e idade.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\obj\Debug\Validação de acesso por nome e idade.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\obj\Debug\Validação_de_acesso_por_nome_e_idade.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\obj\Debug\Validação_de_acesso_por_nome_e_idade.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\obj\Debug\Validação de acesso por nome e idade.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\obj\Debug\Validação de acesso por nome e idade.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\obj\Debug\Validação de acesso por nome e idade.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Validação de acesso por nome e idade\obj\Debug\Validação de acesso por nome e idade.pdb

@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\bin\Debug\Metade Número Maior 20.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\bin\Debug\Metade Número Maior 20.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\bin\Debug\Metade Número Maior 20.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\obj\Debug\Metade Número Maior 20.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\obj\Debug\Metade_Número_Maior_20.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\obj\Debug\Metade_Número_Maior_20.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\obj\Debug\Metade Número Maior 20.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\obj\Debug\Metade Número Maior 20.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\obj\Debug\Metade Número Maior 20.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Metade Número Maior 20\obj\Debug\Metade Número Maior 20.pdb

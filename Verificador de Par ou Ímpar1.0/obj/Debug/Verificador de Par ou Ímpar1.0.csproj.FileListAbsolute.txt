@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\bin\Debug\Verificador de Par ou Ímpar1.0.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\bin\Debug\Verificador de Par ou Ímpar1.0.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\bin\Debug\Verificador de Par ou Ímpar1.0.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\obj\Debug\Verificador de Par ou Ímpar1.0.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\obj\Debug\Verificador_de_Par_ou_Ímpar1._0.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\obj\Debug\Verificador_de_Par_ou_Ímpar1._0.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\obj\Debug\Verificador de Par ou Ímpar1.0.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\obj\Debug\Verificador de Par ou Ímpar1.0.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\obj\Debug\Verificador de Par ou Ímpar1.0.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Verificador de Par ou Ímpar1.0\obj\Debug\Verificador de Par ou Ímpar1.0.pdb

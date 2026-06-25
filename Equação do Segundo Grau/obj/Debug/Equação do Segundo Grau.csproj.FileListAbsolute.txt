@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\bin\Debug\Equação do Segundo Grau.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\bin\Debug\Equação do Segundo Grau.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\bin\Debug\Equação do Segundo Grau.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\obj\Debug\Equação do Segundo Grau.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\obj\Debug\Equação_do_Segundo_Grau.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\obj\Debug\Equação_do_Segundo_Grau.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\obj\Debug\Equação do Segundo Grau.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\obj\Debug\Equação do Segundo Grau.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\obj\Debug\Equação do Segundo Grau.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Equação do Segundo Grau\obj\Debug\Equação do Segundo Grau.pdb

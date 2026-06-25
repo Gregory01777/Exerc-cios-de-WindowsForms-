@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\bin\Debug\Confirmação de cancelamento.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\bin\Debug\Confirmação de cancelamento.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\bin\Debug\Confirmação de cancelamento.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\obj\Debug\Confirmação de cancelamento.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\obj\Debug\Confirmação_de_cancelamento.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\obj\Debug\Confirmação_de_cancelamento.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\obj\Debug\Confirmação de cancelamento.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\obj\Debug\Confirmação de cancelamento.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\obj\Debug\Confirmação de cancelamento.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Confirmação de cancelamento\obj\Debug\Confirmação de cancelamento.pdb

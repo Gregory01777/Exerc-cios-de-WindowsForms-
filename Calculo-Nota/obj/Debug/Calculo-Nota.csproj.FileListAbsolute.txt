@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\bin\Debug\Calculo-Nota.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\bin\Debug\Calculo-Nota.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\bin\Debug\Calculo-Nota.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\obj\Debug\Calculo-Nota.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\obj\Debug\Calculo_Nota.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\obj\Debug\Calculo_Nota.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\obj\Debug\Calculo-Nota.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\obj\Debug\Calculo-Nota.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\obj\Debug\Calculo-Nota.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Calculo-Nota\obj\Debug\Calculo-Nota.pdb

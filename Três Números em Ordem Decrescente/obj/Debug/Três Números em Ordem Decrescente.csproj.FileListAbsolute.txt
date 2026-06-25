@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\bin\Debug\Três Números em Ordem Decrescente.exe.config
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\bin\Debug\Três Números em Ordem Decrescente.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\bin\Debug\Três Números em Ordem Decrescente.pdb
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\obj\Debug\Três_Números_em_Ordem_Decrescente.Form1.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\obj\Debug\Três_Números_em_Ordem_Decrescente.Properties.Resources.resources
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.exe
+C:\Users\grego\OneDrive\Desktop\AtividadesForms\Três Números em Ordem Decrescente\obj\Debug\Três Números em Ordem Decrescente.pdb
